@@ -93,4 +93,4 @@ La pràctica inclou captures de pantalla i comprovacions de:
 # Conclusions
 La configuració del sistema de filtratge s’ha implementat correctament complint els requisits de la pràctica. El proxy aplica les polítiques de seguretat definides i permet gestionar l’accés a continguts web de manera eficient i controlada.
 
-![Enllaç de la practica](practica.md)
+- [Enllaç de la practica](practica.md)
