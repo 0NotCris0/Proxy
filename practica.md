@@ -64,9 +64,11 @@ Veurem que esta bloquejada la URL de google ads.
 
 ## Filtrat de paraules i exclusions (Anime) 
 
-
+Ara filtrarem per paraules. En aquest cas, bloquejarem la paraula "anime". Pero deixarem la pagina de animenetwork.com en les llistes blanques perque ens deixi entrar. I sera important activar les llistes blancas personalitzades i les de frases personalitzades. I reiniciarem el proxy perque els canvis tinguin efecte.
 
 <img src="img/16.png" width="600">
+
+Vurem una pagina de anime no ens deica que esta bloquejada per la paraula anime, pero si entrem a animenetwork.com si que ens deixa entrar.
 
 <img src="img/17.png" width="600">
 
@@ -74,9 +76,15 @@ Veurem que esta bloquejada la URL de google ads.
 
 ## Control horari 
 
+Per ultim farem el control horari. Haurem d'entrar a l'apartat de control horari i configurar les hores en les que volem que el proxy bloquegi les pàgines. En aquest cas, bloquejarem les pàgines de 0-24 hores, totes les pagines estaran bloquejades. I reiniciarem el proxy perque els canvis tinguin efecte.
+
 <img src="img/19.png" width="600">
 
+Aqui podem veure que hem creat una regla de control horari. 
+
 <img src="img/20.png" width="600">
+
+Entrem en qualsevol pagina i veiem que esta bloquejada per el control horari.
 
 <img src="img/21.png" width="600">
 
